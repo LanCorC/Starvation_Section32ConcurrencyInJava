@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52fb44a8-5858-4017-a431-df8397bbbbba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Starvation_Section32ConcurrencyInJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cor/lan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cor/lan/ThreadColor.java" afterDir="false" />
+    <list default="true" id="52fb44a8-5858-4017-a431-df8397bbbbba" name="Changes" comment="Section 23.408(Concurrency in Java: Thread Starvation): demonstrating thread priority as a suggestion to the operating system, and demonstration of thread starvation. solutions and workarounds in the next sections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cor/lan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cor/lan/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1693807805640</updated>
     </task>
+    <task id="LOCAL-00001" summary="Section 23.408(Concurrency in Java: Thread Starvation): demonstrating thread priority as a suggestion to the operating system, and demonstration of thread starvation. solutions and workarounds in the next sections">
+      <created>1693808943643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693808943643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 23.408(Concurrency in Java: Thread Starvation): demonstrating thread priority as a suggestion to the operating system, and demonstration of thread starvation. solutions and workarounds in the next sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 23.408(Concurrency in Java: Thread Starvation): demonstrating thread priority as a suggestion to the operating system, and demonstration of thread starvation. solutions and workarounds in the next sections" />
   </component>
 </project>
